@@ -1,6 +1,6 @@
 # Postcodes
 
-Information about UK postcode areas and districts. Based on date prepared by [Chris Bell](https://www.doogal.co.uk/), Originally from the [Office For National Statistics Open Geography Portal](https://ons.maps.arcgis.com/home/search.html?t=content&q=tags%3AONS%20Postcode%20Directory&start=1&sortOrder=desc&sortField=modified).
+Information about UK postcode areas and districts. Based on data prepared by [Chris Bell](https://www.doogal.co.uk/), Originally from the [Office For National Statistics Open Geography Portal](https://ons.maps.arcgis.com/home/search.html?t=content&q=tags%3AONS%20Postcode%20Directory&start=1&sortOrder=desc&sortField=modified).
 
 ## API
 
