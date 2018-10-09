@@ -2,7 +2,7 @@
   "name": "@fmtk/postcodes",
   "version": "1.0.0",
   "description": "Info about UK postcode areas and districts",
-  "main": "dist/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/futurematik/postcodes.git"
