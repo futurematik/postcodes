@@ -1,4 +1,4 @@
-let data = require('./data');
+var data = require('./data');
 
 exports.getPostcodeDistrict = function(code) {
   var d = data.districts[code];
